@@ -1,6 +1,6 @@
 {
   "name": "@gibme/fping",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple fping promise based wrapper",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -39,8 +39,8 @@
   "dependencies": {
     "@types/jsbn": "^1.2.33",
     "@types/which": "^3.0.4",
-    "ip-address": "^9.0.5",
-    "which": "^4.0.0"
+    "ip-address": "^10.0.1",
+    "which": "^5.0.0"
   },
   "devDependencies": {
     "@types/mocha": "^10.0.6",
