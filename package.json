@@ -1,6 +1,6 @@
 {
   "name": "@gibme/fping",
-  "version": "22.0.0",
+  "version": "22.0.1",
   "description": "A simple fping promise based wrapper",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -39,7 +39,7 @@
   "dependencies": {
     "@types/jsbn": "^1.2.33",
     "@types/which": "^3.0.4",
-    "ip-address": "^10.1.0",
+    "ip-address": "^10.2.0",
     "which": "^6.0.1"
   },
   "devDependencies": {
@@ -55,7 +55,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^7.2.1",
     "globals": "^17.4.0",
-    "tsx": "^4.19.4",
+    "tsx": "^4.21.0",
     "typedoc": "^0.28.18",
     "typescript": "^6.0.2"
   }
